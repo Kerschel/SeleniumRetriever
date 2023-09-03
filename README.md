@@ -1,4 +1,4 @@
-# Anime Scraping Program
+# Selenium Scraping Program
 
 This Python program is designed for scraping data from an anime website, processing it, and storing it in a MySQL database. It utilizes web scraping techniques using Selenium and BeautifulSoup, manages a MySQL database for storing anime information and episodes, and transfers files via FTP.
 
